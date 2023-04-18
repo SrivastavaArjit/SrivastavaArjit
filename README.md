@@ -4,6 +4,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=1EF7A5&width=500&lines=Hi%2C+I'm+a+budding+full+stack+web+developer;Pro+at+Google-fu+and+Stack+Overflow-ing;Turning+coffee+into+code%2C+one+line+at+a+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=1EF7A5&width=500&lines=Hi%2C+I'm+a+budding+porn+star+prositute+Scholar;Pro+at+2-girls-1-cup+and+Stack+Overflow-ing;Turning+coffee+into+code%2C+one+line+at+a+time" alt="Typing SVG" /></a>
 </p>
 
