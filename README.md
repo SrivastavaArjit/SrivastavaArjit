@@ -9,7 +9,7 @@
 
 
 * 🌍  I'm based in Varanasi, Uttar Pradesh
-* ✉️  You can contact me at [srivastavaarjit1209@gmai.com](mailto:srivastavaarjit1209@gmai.com)
+* ✉️  You can contact me at [srivastavaarjit1209@gmai.com](mailto:srivastavaarjit1209@gmail.com)
 * 🧠  I'm learning React based framework called Next.
 * ⚡  I'm secretly Spiderman... but don't tell anyone.
 
